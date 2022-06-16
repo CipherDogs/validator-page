@@ -55,7 +55,7 @@ a:focus { transition: all 0.3s }
     background-size: cover;
 }
 
-.block-evmos-testnet { color: white; background-color: #2d2925 }
+.block-evmos-testnet { color: white; background-color: #ed4e33 }
 .block-evmos-testnet div { margin: 15px; text-align: center }
 .block-evmos-testnet .button { color: white !important; border-color: white; display: inline-block; margin: 5px }
 .block-evmos-testnet .button:hover { color: white !important; border-color: white !important; background: transparent }
